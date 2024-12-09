@@ -1,3 +1,4 @@
+# **Bio x AI Hackathon 2024**
 ### **Validating Drug Candidates for Alzheimer’s Disease via Collaborative Filtering**
 
 - **Context**: “Drug development is known to be a costly and time-consuming process with high failure rates. Drug repurposing offers a solution by enabling the reuse of approved compounds to address these challenges. The outcomes of past clinical trials can be leveraged to predict novel drug-disease associations by utilizing drug- and disease-related similarities. To tackle this classification problem, collaborative filtering with implicit feedback has gained popularity, as it effectively handles large imbalances between known positive and negative associations, as well as between known and unknown associations” (Réda et al., 2024).
